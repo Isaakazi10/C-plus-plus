@@ -10,6 +10,7 @@ int main(void)
 
     int arr[size];
 
+    cout << "Enter the natural numbers : ";
     for (int i = 0; i < size; i++)
     {
         cin >> arr[i];
