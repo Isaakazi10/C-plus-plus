@@ -5,7 +5,7 @@ int main(void)
 {
     int size = 0, minus = 0;
 
-    cout << "Enter the size: ";
+    cout << "Enter the positive size: ";
     cin >> size;
 
     int arr[size];
