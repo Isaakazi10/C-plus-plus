@@ -12,6 +12,7 @@ int main()
     {
         sum = sum + i;
         res = res + sum;
+        s
     }
 
     cout << res << endl;
