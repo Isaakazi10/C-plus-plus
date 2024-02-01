@@ -29,4 +29,5 @@ int main()
         return -1;
     }
     std::cout << "\n" << sum.isbn() << " " << count << "\n" << std::endl;
+    std::cout << "End of line : " <<std::endl;
 }
