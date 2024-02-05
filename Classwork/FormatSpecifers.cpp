@@ -1,10 +1,9 @@
 #include <iostream>
 
-
 int main()
 {
     int Num_1 = 10, Num_2 = 8;
-    float Flo=20.666;
+    float Flo = 20.666;
     char ch = 'A';
 
     std::cout << std::showbase; // This Flag will show base of a Number
